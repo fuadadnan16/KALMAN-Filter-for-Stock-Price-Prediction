@@ -38,7 +38,7 @@ The following results are generated:
 
 
 ### State Estimation
-![State Estimation](results/trajectory.png)
+![State Estimation](results/trajectory.PNG)
 
 
 
